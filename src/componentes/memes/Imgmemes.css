@@ -1,0 +1,29 @@
+.memes{
+    display: block;
+    padding: 20px;
+    text-align: center;
+    background-color: burlywood;
+    color: rgb(103, 63, 63);
+}
+.form-control{
+    color: rgb(17, 68, 70);
+    border-color: cadetblue;
+    border: 5px;
+}
+.meme-txt{
+    width: 100px;
+    position: absolute;
+    top: 450px;
+    left: 200px;
+    
+}
+.figure-img{
+display: inline;
+width: 400px;
+left: 200px;
+top: 200px;
+
+}
+.boton{
+
+}
